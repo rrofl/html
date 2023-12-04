@@ -1,0 +1,45 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+header, footer, main{
+    max-width: 1260px;
+    margin: auto;
+}
+
+body, h1{
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+.napis, .napis2{
+    font-size: 30px;
+}
+
+.shared{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-size: 16px;
+}
+
+.col1, .col2{
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+}
+
+.col1 img{
+    width: 10%;
+    height: auto;
+}
+
+.col2 img{
+    width: 100%;
+    height: auto;
+}

@@ -1,0 +1,29 @@
+.sekcja{
+    border: 1px solid #000;
+    max-width: 1240px;
+    margin: auto;
+}
+body{
+    margin: 0px;
+}
+.header-h1{
+    font-family: Arial;
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 2px;
+    color: grey;
+}
+.header-h2{
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px #505050;
+    color: rgb(180, 250, 30);
+}
+.nawigacja{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.link-item{
+    display: inline;
+}
